@@ -22,7 +22,12 @@ Astroware Labs
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="P:Astroware_Labs.My.Resources.Resources.atacama_desert_chile_stargazing_STARRYSKY0418">
+<member name="P:Astroware_Labs.My.Resources.Resources.atacama">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Astroware_Labs.My.Resources.Resources.nasa_logo">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
